@@ -94,7 +94,15 @@ Calculate the average subscription duration:
 
 ### SQL
 Retreive the total number of customers from each region.
-
+```SQL
+SELECT Region, 
+COUNT(CustomerID) AS TotalCustomers
+FROM [dbo].[LITA Capstone Dataset CustomerData]
+GROUP BY Region
+Order by TotalCustomers desc
+```
+![Screenshot (66)](https://github.com/user-attachments/assets/f9b393e7-1a8a-4160-9578-14df45b4506d)
+![Screenshot (90)](https://github.com/user-attachments/assets/2a5554e8-a9a9-47a4-b852-28f950f734f6)
 
 
 
