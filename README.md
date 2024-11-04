@@ -15,8 +15,11 @@ Dataset
 Tools used
 Data cleaning and preparation
 Instructions
+Data analysis
+- Excel & SQl
+- key findimgs
 visualization
-Summary & Conclusion
+Recommendation & Conclusion
 
 ---
 ### Project objectives
@@ -61,7 +64,21 @@ The data cleaning process is crucial to ensure the integrity and reliability of 
 
 2. SQL: Write queries to extract key insightsbased on the following questions.
 
--
+- retrieve the total number of customers from each region.
+- find the most popular subscription type by the number of customers.
+- find customers who canceled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type.
+- find the total number of active and canceled subscriptions.
+
+3. Power BI:
+- Build a Power BI dashboard that visualizes key customer segments,
+cancellations, and subscription trends. Include slicers for interactive analysis.
+
+---
+
+
 
 
 
