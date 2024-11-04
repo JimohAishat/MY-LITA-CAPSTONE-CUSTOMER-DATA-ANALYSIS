@@ -88,11 +88,16 @@ Calculate the average subscription duration:
 
 ### create any other interesting report.
 
+![pivot table image](https://github.com/user-attachments/assets/4f293c7f-1a09-41b6-a13a-fda6d1a22e0e)
+
+
 **INSIGHTS:** The data indicates that while the east region dwemonstarte excellent customer retention with no cancellations, the North, South and the East region face challenges with high cancelation rates. The high cancellations in this region may reflect underlying issues such as; Dissatisfaction with the servic, pricing concerns or better offering from competitors. 
 
 ### SQL
 
-'''Select 
+
+ Select *  Region
+ 
 
 
 
