@@ -9,17 +9,18 @@ This repository is about data anaylyis of a customer data subscription, subscrip
 
 ---
 ###  TABLE OF CONTENTS
-[Project objectives](-project-objectives)
-[Data source](-data-source)
-[Dataset](-dataset)
-[Tools Used](-tools-used)
-[Data cleaning and preparation](-data-cleaning-and-preparation)
-[Project Instructions](-project-instructions)
-[Data analysis](-data-analysis)
+
+- [Project objectives](#roject-objectives)
+- [Data source](#data-source)
+- [Dataset](#dataset)
+- [Tools Used](#tools-used)
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
+- [Project Instructions](#project-instructions)
+- [Data analysis](#data-analysis)
 - Excel & SQl
-[Visualization](-visualization)
-[Recommendation](-recommendation)
-[Conclusion](-conclusion)
+- [Visualization](#visualization)
+- [Recommendation](#recommendation)
+- [Conclusion](#conclusion)
 
 ---
 ### Project objectives
