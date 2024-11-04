@@ -17,9 +17,8 @@ Data cleaning and preparation
 Instructions
 Data analysis
 - Excel & SQl
-- key findimgs
 visualization
-Recommendation & Conclusion
+Conclusion
 
 ---
 ### Project objectives
@@ -84,7 +83,7 @@ Calculate the average subscription duration:
 - Insight: The average subscription duration being around one year indicates that many customers remain subscribed for a significant period.
 
 ### Identify the most subscription types.
--The basic subscription is the clear favorite amongst customers subscribing
+- The basic subscription is the clear favorite amongst customers subscribing
 
 ### create any other interesting report.
 
@@ -94,9 +93,87 @@ Calculate the average subscription duration:
 **INSIGHTS:** The data indicates that while the east region dwemonstarte excellent customer retention with no cancellations, the North, South and the East region face challenges with high cancelation rates. The high cancellations in this region may reflect underlying issues such as; Dissatisfaction with the servic, pricing concerns or better offering from competitors. 
 
 ### SQL
+Retreive the total number of customers from each region.
 
 
- Select *  Region
+
+
+
+
+---
+- insight: The analysis of customer counts by region reveals a relativity balanced customer distribution with opportunities for growth and improvement in customer retention strategy across all areas. Focusing on understanding regional differences and enhancing customer satisfaction.
+
+---
+### Find the most popular subscription type by the number of customers.
+
+
+
+
+
+---
+### Find customers who canceled their subscription with 6months
+
+
+
+
+
+
+- Observation: During the analysis period, they were no cancellations reportred among customers in the first 6montha of their subscription
+- Insight: This finding indicates a strong initial engagement and satisfaction level among new subscribers, suggesting that onboarding process and early customer experiance are effective. Customer who remain engaged during the first 6months are likely to becomea loyal subscribers.
+
+---
+### Calculate the average subscrintion duration for every customers.
+
+
+
+
+
+
+
+---
+### Calculate total revenue by subscription type
+
+
+
+
+
+---
+- Insight: the major subscription type generates the highest revenue by a sustantial margin, indicating it maybe the most popylar option amongst customers. the premium and standard typetyprs generates significant less avaenue
+
+---
+###  Find the Top 3 regions by subscription cancellation
+
+
+
+
+
+
+
+### Find the total number of active and canceled subscription
+
+
+
+
+
+
+
+
+
+---
+###  Visualization
+
+
+
+
+
+
+
+
+
+###  Conclusion
+The analysis of subscription data has provided valuable insights into customers behaviour, preferences and retention. The absense of cancelation within the first 12months reflects strong, customers satisfaction and effective boarding processes, suggesting thst customers find value in their subscriptions during this critical period. Despite the overall positive trends in cutomer retention, the analysis also revealed areas for imptovement
+
+
  
 
 
