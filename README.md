@@ -77,7 +77,20 @@ The data cleaning process is crucial to ensure the integrity and reliability of 
 cancellations, and subscription trends. Include slicers for interactive analysis.
 
 ---
+### Data analysis
+### Excel
+Calculate the average subscription duration:
+- Average Duration: 365.35days
+- Insight: The average subscription duration being around one year indicates that many customers remain subscribed for a significant period.
 
+### Identify the most subscription types.
+-The basic subscription is the clear favorite amongst customers subscribing
+
+### create any other interesting report.
+
+**INSIGHTS:** The data indicates that while the east region dwemonstarte excellent customer retention with no cancellations, the North, South and the East region face challenges with high cancelation rates. The high cancellations in this region may reflect underlying issues such as; Dissatisfaction with the servic, pricing concerns or better offering from competitors. 
+
+### SQL
 
 
 
