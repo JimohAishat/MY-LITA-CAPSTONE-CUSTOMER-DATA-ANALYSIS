@@ -11,7 +11,7 @@ This repository is about data anaylyis of a customer data subscription, subscrip
 ###  Table of content
 Project objective
 Data source
-Data set
+Dataset
 Tools used
 Data cleaning and preparation
 Instructions
@@ -28,3 +28,26 @@ This project aim to:
 - To provide actionable insights and recommendations to enhance customers satisfaction and optimise subcription
 
 ---
+### Data source
+The dataset for this project was provided as part of the class assignment which contains simulated retail sales data for analysis purposes.
+
+---
+### Dataset
+- CustomerID: Unique Identifier for each customer
+- SubscriptionType: Type of subscription (e.g Basic, Premium, Standard)
+- SubscriptionStart: Date when the subscription started
+- SubscriptionEnd: Date when the subscription ended
+- Canelled: Indicates if the subscription was cancelled (TRUE/FALSE)
+- Revenue: Total revenue generated from the subscription
+- Region: Geagraphic region of the customer
+
+---
+### Tools Used
+- Excel: For Exploratory data analysis (EDA)
+- SQL: for querying data
+- Power BI: For visualization
+
+---
+### Data cleaning and preparation
+The data cleaning process is crucial to ensure the integrity and reliability of the analysis.
+
