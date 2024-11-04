@@ -44,13 +44,13 @@ The dataset for this project was provided as part of the class assignment which 
 ---
 ### Tools Used
 - Excel: For Exploratory data analysis (EDA)
-- SQL: for querying data![customer sub data set](https://github.com/user-attachments/assets/e6a62007-8abf-4416-9ad7-b3e4ac629219)
+- SQL: for querying data
 
 ---
 ### Data cleaning and preparation
 The data cleaning process is crucial to ensure the integrity and reliability of the analysis.
 
-
+![customer sub data set](https://github.com/user-attachments/assets/e6a62007-8abf-4416-9ad7-b3e4ac629219)
 
 
 
