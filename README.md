@@ -44,8 +44,7 @@ The dataset for this project was provided as part of the class assignment which 
 ---
 ### Tools Used
 - Excel: For Exploratory data analysis (EDA)
-- SQL: for querying data
-- Power BI: For visualization
+- SQL: for querying data![customer sub data set](https://github.com/user-attachments/assets/e6a62007-8abf-4416-9ad7-b3e4ac629219)
 
 ---
 ### Data cleaning and preparation
