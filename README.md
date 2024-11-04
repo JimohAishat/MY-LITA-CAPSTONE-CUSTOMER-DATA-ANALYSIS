@@ -1,11 +1,11 @@
 # MY-PROJECT
 
 ### Project Title:
-customers subscription analysis and insights
+Customers subscription analysis and insights.
 
 ---
 ### Project overview
-This repository is about data anaylyis of a customer data subscription, subscription donation, popularity,cancellations,revenue and regional insights this analysis utilises Excel for Exploratory data analysis (EDA), SQL for query and power bi for visualization
+This repository is about data anaylyis of a customer data subscription, subscription donation, popularity,cancellations,revenue and regional insights this analysis utilises Excel for Exploratory data analysis (EDA), SQL for query and power bi for visualization.
 
 ---
 ###  Table of content
@@ -50,4 +50,8 @@ The dataset for this project was provided as part of the class assignment which 
 ---
 ### Data cleaning and preparation
 The data cleaning process is crucial to ensure the integrity and reliability of the analysis.
+
+
+
+
 
