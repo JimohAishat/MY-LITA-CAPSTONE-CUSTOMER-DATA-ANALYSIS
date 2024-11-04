@@ -52,5 +52,19 @@ The data cleaning process is crucial to ensure the integrity and reliability of 
 
 ![customer sub data set](https://github.com/user-attachments/assets/e6a62007-8abf-4416-9ad7-b3e4ac629219)
 
+---
+### Project Instructions:
+1. Excel
+- Calculate the average subscription duration
+- Identify the most popular subscription types
+- Create any other interesting reportd,
+
+2. SQL: Write queries to extract key insightsbased on the following questions.
+
+-
+
+
+
+
 
 
