@@ -92,6 +92,7 @@ Calculate the average subscription duration:
 
 ### SQL
 
+'''Select 
 
 
 
